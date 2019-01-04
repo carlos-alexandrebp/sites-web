@@ -1,0 +1,57 @@
+html{
+	background-color: #F0F0E0;
+}
+body{
+	width: 1000px;
+	
+	margin: 0 auto;
+}
+
+p{
+	width: 767px;
+	color: #A0FFFF;
+	float: right;
+}
+
+h3 {
+	width: 1000px;
+}
+h5{
+	color: #fff;
+	font-size: 14px;
+	text-decoration: none;
+}
+h3#h3titulo{
+	font-size: 17px;
+
+}
+
+
+
+
+section{
+	background-color:#505080;
+	margin: 10px 0px 10px 0px;
+}
+article{
+	margin: 30px 0px 30px 0px;
+	border-bottom: 1px dashed #AFF;
+	padding-bottom: 3px;
+}
+
+
+
+header , section , footer{ 
+	border-radius: 20px;
+	padding: 10px;
+}
+
+h1 ,h2 ,h3{
+	color: #fff;
+}
+
+
+header , footer{
+	background-color: #039955;
+
+}
